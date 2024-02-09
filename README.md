@@ -2,7 +2,7 @@
 | Project | Coverage  | CI | Version | Downloads |
 |:--:|:--:|:--:|:--:|:--:|
 | [MHCgnomes](https://www.github.com/pirl-unc/mhcgnomes) | [![Tests](https://github.com/pirl-unc/mhcgnomes/actions/workflows/tests.yml/badge.svg)](https://github.com/openvax/varcode/actions/workflows/tests.yml) | - |  <a href="https://pypi.python.org/pypi/mhcgnomes/"><img src="https://img.shields.io/pypi/v/mhcgnomes?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/mhcgnomes.svg)](https://pypistats.org/packages/mhcgnomes) |
-
+| [Exacto](https://www.github.com/pirl-unc/exacto) | [![Tests](https://github.com/pirl-unc/exacto/actions/workflows/main.yml/badge.svg)](https://github.com/pirl-unc/exacto/actions/workflows/main.yml) | - | <a href="https://pypi.python.org/pypi/exacto/"><img src="https://img.shields.io/pypi/v/exacto?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/exacto.svg)](https://pypistats.org/packages/exacto) |
 
 ## OpenVax
 
