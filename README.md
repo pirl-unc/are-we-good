@@ -1,4 +1,6 @@
-# CI status of projects PIRL helps develop
+# CI status of projects PIRL members develop and help maintain
+
+## PIRL
 | Project | CI  | Coverage | Version | Downloads |
 |:--:|:--:|:--:|:--:|:--:|
 | [MHCgnomes](https://www.github.com/pirl-unc/mhcgnomes) | [![Tests](https://github.com/pirl-unc/mhcgnomes/actions/workflows/tests.yml/badge.svg)](https://github.com/openvax/varcode/actions/workflows/tests.yml) | - |  <a href="https://pypi.python.org/pypi/mhcgnomes/"><img src="https://img.shields.io/pypi/v/mhcgnomes?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/mhcgnomes.svg)](https://pypistats.org/packages/mhcgnomes) |
