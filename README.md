@@ -7,7 +7,7 @@
 | [Exacto](https://www.github.com/pirl-unc/exacto) | [![Tests](https://github.com/pirl-unc/exacto/actions/workflows/main.yml/badge.svg)](https://github.com/pirl-unc/exacto/actions/workflows/main.yml) | - | <a href="https://pypi.python.org/pypi/exacto/"><img src="https://img.shields.io/pypi/v/exacto?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/exacto.svg)](https://pypistats.org/packages/exacto) |
 | [VSTOL](https://www.github.com/pirl-unc/vstol) | [![Tests](https://github.com/pirl-unc/vstol/actions/workflows/main.yml/badge.svg)](https://github.com/pirl-unc/vstol/actions/workflows/main.yml) | - | - | - |
 | [Nexus](https://www.github.com/pirl-unc/vstol) | [![Tests](https://github.com/pirl-unc/vstol/actions/workflows/main.yml/badge.svg)](https://github.com/pirl-unc/vstol/actions/workflows/main.yml) | - | - | - |
-| RAFT | - | - |  <a href="https://pypi.python.org/pypi/reproducible-analyses-framework-and-tools/"><img src="https://img.shields.io/pypi/v/reproducible-analyses-framework-and-tools?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/reproducible-analyses-framework-and-tools.svg)](https://pypistats.org/packages/reproducible-analyses-framework-and-tools) 
+| [RAFT](https://github.com/pirl-unc/raft) | - | - |  <a href="https://pypi.python.org/pypi/reproducible-analyses-framework-and-tools/"><img src="https://img.shields.io/pypi/v/reproducible-analyses-framework-and-tools?maxAge=1000" alt="PyPI" /></a> | [![PyPI downloads](https://img.shields.io/pypi/dm/reproducible-analyses-framework-and-tools.svg)](https://pypistats.org/packages/reproducible-analyses-framework-and-tools) 
 
 
 ## OpenVax
